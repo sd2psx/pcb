@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "PSX")(type "KiCad")(uri "${KIPRJMOD}/PSX.pretty")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "KiCad-SSD1306-0.91-OLED-4pin-128x32")(type "KiCad")(uri "${KIPRJMOD}/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty")(options "")(descr ""))
+  (lib (name "kicad_lceda")(type "KiCad")(uri "${KIPRJMOD}/kicad_lceda.pretty")(options "")(descr ""))
+  (lib (name "kikit")(type "KiCad")(uri "${KIPRJMOD}/kikit.pretty")(options "")(descr ""))
+)
