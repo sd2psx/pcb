@@ -427,7 +427,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../../run/user/1000/gvfs/smb-share:server=192.168.0.7,share=public/rp2040-memcard-15.step",
+      "step": "../../../../../../../run/user/1000/gvfs/smb-share:server=192.168.0.7,share=public/rp2040-memcard-20.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

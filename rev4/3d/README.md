@@ -23,3 +23,7 @@ https://grabcad.com/library/tactile-switch-button-push-ts-018-2x4x3-5mm-1
 # TF-01A.step
 
 https://grabcad.com/library/tf-01a-1
+
+# switch-3p.step
+
+https://grabcad.com/library/tactile-switch-3p-4-5-x-4-5-x-9-mm-1
