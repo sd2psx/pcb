@@ -21,7 +21,7 @@ As of June 2023, the LY68L6400SLIT is no longer available from JLCPCB. I've also
 * AP 6404L-3SQR - Available from [Mouser](https://www.mouser.com/ProductDetail/AP-Memory/APS6404L-3SQR-SN?qs=IS%252B4QmGtzzqsn3S5xo%2FEEg%3D%3D)
 * Lyontek LY68L6400S
 
-I recommend switching to the AP 6404L-3SQR module; it can be assembled by JLCPCB by fist ordering it into your [personal parts library](https://jlcpcb.com/user-center/smtPrivateLibrary/?index=1).
+I recommend switching to the AP 6404L-3SQR module; it can be assembled by JLCPCB by first ordering it into your [personal parts library](https://jlcpcb.com/user-center/smtPrivateLibrary/?index=1).
 
 ## OLED module notes
 
